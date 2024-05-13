@@ -1,3 +1,7 @@
-for (let i = 0; i <= 10; i++) {
-    
+let altura = 5;
+let fila = "#"; 
+
+while (fila.length <= altura) { 
+ console.log(fila); 
+ fila += "#" ; 
 }
