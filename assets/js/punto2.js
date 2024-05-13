@@ -3,5 +3,5 @@ let fila = "#";
 
 while (fila.length <= altura) { 
  console.log(fila); 
- fila += "#" ; 
+ fila += "#"  ; 
 }
